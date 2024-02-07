@@ -1,0 +1,13 @@
+C:\Users\Kabouri\source\repos\ContactManager\bin\Debug\ContactManager.exe.config
+C:\Users\Kabouri\source\repos\ContactManager\bin\Debug\ContactManager.exe
+C:\Users\Kabouri\source\repos\ContactManager\bin\Debug\ContactManager.pdb
+C:\Users\Kabouri\source\repos\ContactManager\bin\Debug\Data.dll
+C:\Users\Kabouri\source\repos\ContactManager\bin\Debug\Data.pdb
+C:\Users\Kabouri\source\repos\ContactManager\obj\Debug\ContactManager.csproj.AssemblyReference.cache
+C:\Users\Kabouri\source\repos\ContactManager\obj\Debug\ContactManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kabouri\source\repos\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\Kabouri\source\repos\ContactManager\obj\Debug\ContactManager.csproj.CopyComplete
+C:\Users\Kabouri\source\repos\ContactManager\obj\Debug\ContactManager.exe
+C:\Users\Kabouri\source\repos\ContactManager\obj\Debug\ContactManager.pdb
+C:\Users\Kabouri\source\repos\ContactManager\bin\Debug\Serialisation.dll
+C:\Users\Kabouri\source\repos\ContactManager\bin\Debug\Serialisation.pdb

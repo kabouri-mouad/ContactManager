@@ -1,0 +1,9 @@
+C:\Users\Kabouri\source\repos\ContactManager\Serialisation\bin\Debug\Serialisation.dll
+C:\Users\Kabouri\source\repos\ContactManager\Serialisation\bin\Debug\Serialisation.pdb
+C:\Users\Kabouri\source\repos\ContactManager\Serialisation\bin\Debug\Data.dll
+C:\Users\Kabouri\source\repos\ContactManager\Serialisation\bin\Debug\Data.pdb
+C:\Users\Kabouri\source\repos\ContactManager\Serialisation\obj\Debug\Serialisation.csproj.AssemblyReference.cache
+C:\Users\Kabouri\source\repos\ContactManager\Serialisation\obj\Debug\Serialisation.csproj.CoreCompileInputs.cache
+C:\Users\Kabouri\source\repos\ContactManager\Serialisation\obj\Debug\Serialisation.csproj.CopyComplete
+C:\Users\Kabouri\source\repos\ContactManager\Serialisation\obj\Debug\Serialisation.dll
+C:\Users\Kabouri\source\repos\ContactManager\Serialisation\obj\Debug\Serialisation.pdb

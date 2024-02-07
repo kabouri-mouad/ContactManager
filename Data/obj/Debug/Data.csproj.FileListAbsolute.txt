@@ -1,0 +1,6 @@
+C:\Users\Kabouri\source\repos\ContactManager\Data\bin\Debug\Data.dll
+C:\Users\Kabouri\source\repos\ContactManager\Data\bin\Debug\Data.pdb
+C:\Users\Kabouri\source\repos\ContactManager\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Kabouri\source\repos\ContactManager\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Kabouri\source\repos\ContactManager\Data\obj\Debug\Data.dll
+C:\Users\Kabouri\source\repos\ContactManager\Data\obj\Debug\Data.pdb
